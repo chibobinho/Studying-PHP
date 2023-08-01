@@ -1,5 +1,5 @@
 <?php
 
-$idade = 21;
-echo "Olá mundo! Minhda idade é $idade anos" . PHP_EOL;
-echo "Teste de quebra de linha";
+$age = 21;
+echo "Hello world! My age is $age years." . PHP_EOL;
+echo "Line break test";
